@@ -77,7 +77,7 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/f2e88907-6508-49ad-be4a-b50ef15544ad)
 
-## 2.:
+## 2.STATIC QUEUE CLASS IMPLEMENTATION:
 ~~~
 //Name: Srihari Nair
 //Prn: 23070123131
